@@ -1,1 +1,1 @@
-export default App = () => (<div>Hello world</div>)
+export default () => <div>Hello, World!</div>;
